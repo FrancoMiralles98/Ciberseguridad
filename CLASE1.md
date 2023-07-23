@@ -31,5 +31,5 @@
   `              link ##`: buscara todos los enlaces a un sitio
   `              or`: buscar entre dos palabras ejemplo: auto OR pajaro
 
-# turbina : intitle:"webcamXP 5" son camaras web en tiempo real, son webcams que no la segurizo suficiente es "hackeada"
+# turbina : `intitle:"webcamXP 5" son camaras web en tiempo real, son webcams que no la segurizo suficiente, fue "hackeada"`
 
